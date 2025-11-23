@@ -1,15 +1,65 @@
-# Virtual environment
-venv/
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Python cache
+# Create .gitignore file
+cat > .gitignore << 'EOF'
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# OS files
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
 .DS_Store
 Thumbs.db
 
-.env
+# Project specific
+data/raw/
+data/processed/
+models/*.pkl
+models/*.joblib
+htmlcov/
+.coverage
+.pytest_cache/
+*.log
+
+# Large files
+*.csv
+*.parquet
+*.h5
+*.hdf5
+EOF
+
+cat .gitignore
