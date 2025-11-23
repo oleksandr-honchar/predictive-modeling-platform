@@ -241,12 +241,12 @@ python scripts/setup_database.py
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Week 1 (Nov 21-27): Foundation & Strategy        [52 hrs] │
-│  Week 2 (Nov 28-Dec 4): Learning & Data           [52 hrs] │
-│  Week 3 (Dec 5-11): Model Building                [51 hrs] │
-│  Week 4 (Dec 12-18): Website Development          [52 hrs] │
-│  Week 5 (Dec 19-25): Infrastructure Setup         [48 hrs] │
-│  Week 6 (Dec 26-Jan 1): Testing & Launch          [51 hrs] │
+│  Week 1 (Nov 21-27): Foundation & Strategy        [52 hrs]  │
+│  Week 2 (Nov 28-Dec 4): Learning & Data           [52 hrs]  │
+│  Week 3 (Dec 5-11): Model Building                [51 hrs]  │
+│  Week 4 (Dec 12-18): Website Development          [52 hrs]  │
+│  Week 5 (Dec 19-25): Infrastructure Setup         [48 hrs]  │
+│  Week 6 (Dec 26-Jan 1): Testing & Launch          [51 hrs]  │
 │                                          Total: 306 hours   │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -258,43 +258,43 @@ python scripts/setup_database.py
 
 - [x] Project structure created
 - [x] Documentation organized
-- [ ] Python environment set up
-- [ ] Git repository initialized
+- [x] Python environment set up
+- [x] Git repository initialized
 - [ ] NBA market research complete
 - [ ] ML fundamentals reviewed
 
 ### Week 2: Learning & Data Acquisition
-- Historical NBA data collection (3+ seasons)
-- Exploratory data analysis
-- ML course completion
-- Feature engineering fundamentals
+- [ ] Historical NBA data collection (3+ seasons)
+- [ ] Exploratory data analysis
+- [ ] ML course completion
+- [ ] Feature engineering fundamentals
 
 ### Week 3: Model Building & Website Planning
-- Baseline model (Logistic Regression)
-- XGBoost model v0.9
-- Domain name purchase
-- Tech stack finalization (Next.js)
+- [ ] Baseline model (Logistic Regression)
+- [ ] XGBoost model v0.9
+- [ ] Domain name purchase
+- [ ] Tech stack finalization (Next.js)
 
 ### Week 4: Website Development & Content Creation
-- Homepage implementation
-- About page
-- Blog structure with MDX
-- First 3 articles drafted
-- Design system created
+- [ ] Homepage implementation
+- [ ] About page
+- [ ] Blog structure with MDX
+- [ ] First 3 articles drafted
+- [ ] Design system created
 
 ### Week 5: Infrastructure & Analytics Setup
-- Database setup (Supabase)
-- Email marketing (ConvertKit)
-- Analytics (Google Analytics + Plausible)
-- Social media profiles
-- SEO optimization
+- [ ] Database setup (Supabase)
+- [ ] Email marketing (ConvertKit)
+- [ ] Analytics (Google Analytics + Plausible)
+- [ ] Social media profiles
+- [ ] SEO optimization
 
 ### Week 6: Testing, Final Prep & Launch
-- Comprehensive testing
-- Performance optimization
-- Soft launch to friends (Dec 27)
-- Final adjustments
-- **PUBLIC LAUNCH: January 1, 2026** 🚀
+- [ ] Comprehensive testing
+- [ ] Performance optimization
+- [ ] Soft launch to friends (Dec 27)
+- [ ] Final adjustments
+- [ ] **PUBLIC LAUNCH: January 1, 2026** 🚀
 
 ---
 
@@ -479,14 +479,15 @@ python scripts/setup_database.py
 - README.md written
 - Planning documents in place
 - .gitignore configured
-
-### 🔄 In Progress
 - Python environment setup
 - Git repository initialization
-- Financial forecasting research
+
+### 🔄 In Progress
+
+- 
 
 ### ⏭️ Next Steps
-- Complete afternoon tasks (Python setup)
+- Complete afternoon tasks
 - Tomorrow: ML fundamentals review
 - Weekend: Data sources exploration
 
@@ -510,7 +511,7 @@ Week 6: Launch Prep       ░░░░░░░░░░   0%
 ## 🎯 Launch Goals (January 1, 2026)
 
 ### Must Have ✅
-- [x] Website live and functional on all devices
+- [ ] Website live and functional on all devices
 - [ ] NBA prediction model with 60%+ accuracy
 - [ ] 3-5 published articles with methodology
 - [ ] Email signup working with welcome sequence
@@ -597,7 +598,7 @@ Options under consideration:
 - "Basketball on Paper" by Dean Oliver
 
 **Platforms:**
-- FiveThirtyEight - Inspiration for transparent methodology
+- FiveThirtyEight (RIP) - Inspiration for transparent methodology
 - The Athletic - Quality sports journalism
 - Kaggle - Machine learning community and competitions
 - Fast.ai - Practical deep learning education
@@ -627,7 +628,7 @@ Options under consideration:
 - 📧 Email: [To be announced]
 - 🐦 Twitter/X: [To be created]
 - 💼 LinkedIn: [To be created]
-- 💻 GitHub: [This repository]
+- 💻 GitHub: [https://github.com/oleksandr-honchar/predictive-modeling-platform/tree/main]
 
 ---
 

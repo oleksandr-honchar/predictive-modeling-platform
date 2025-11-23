@@ -17,25 +17,25 @@
 
 #### Morning Block (8:00 AM - 12:00 PM) - 4 hours
 **8:00 - 9:00 AM: Project Setup & Planning**
-- [ ] Read through complete pre-launch schedule (this document)
-- [ ] Create project folder structure on computer
-- [ ] Set up planning/ for task tracking
-- [ ] Download and print weekly checklists
+- [x] Read through complete pre-launch schedule (this document)
+- [x] Create project folder structure on computer
+- [x] Set up planning/ for task tracking
+- [x] Download and print weekly checklists
 
 **9:00 - 10:30 AM: Market Research - Sports Analytics**
-- [ ] Browse FiveThirtyEight NBA section (30 min)
-- [ ] Study The Athletic's prediction content (30 min)
-- [ ] Check Action Network's model methodology (30 min)
-- [ ] Take notes: What do they do well? What's missing?
+- [x] Browse FiveThirtyEight NBA section (30 min)
+- [x] Study The Athletic's prediction content (30 min)
+- [x] Check Action Network's model methodology (30 min)
+- [x] Take notes: What do they do well? What's missing?
 
 **10:30 - 11:00 AM: BREAK** ☕
 - Stretch, walk, coffee
 
 **11:00 AM - 12:00 PM: Decision Making - First Market**
-- [ ] Compare NBA vs NFL data availability (20 min)
-- [ ] Research NBA season schedule and game frequency (20 min)
-- [ ] **DECISION:** Commit to NBA as first market (20 min)
-- [ ] Document reasoning in project notes
+- [x] Compare NBA vs NFL data availability (20 min)
+- [x] Research NBA season schedule and game frequency (20 min)
+- [x] **DECISION:** Commit to NBA as first market (20 min)
+- [x] Document reasoning in project notes
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00 - 3:30 PM: Financial Forecasting Research**
@@ -46,14 +46,14 @@
 **3:30 - 4:00 PM: BREAK** 🍵
 
 **4:00 - 6:00 PM: Python Environment Setup**
-- [ ] Install Python 3.11+ (or verify installation) (15 min)
-- [ ] Set up virtual environment for project (15 min)
-- [ ] Install base libraries: pandas, numpy, matplotlib, seaborn (20 min)
-- [ ] Create test Jupyter notebook (20 min)
-- [ ] Test imports and basic functionality (20 min)
-- [ ] Initialize Git repository (10 min)
-- [ ] Create .gitignore file (10 min)
-- [ ] First commit: "Initial project setup" (10 min)
+- [x] Install Python 3.11+ (or verify installation) (15 min)
+- [x] Set up virtual environment for project (15 min)
+- [x] Install base libraries: pandas, numpy, matplotlib, seaborn (20 min)
+- [x] Create test Jupyter notebook (20 min)
+- [x] Test imports and basic functionality (20 min)
+- [x] Initialize Git repository (10 min)
+- [x] Create .gitignore file (10 min)
+- [x] First commit: "Initial project setup" (10 min)
 
 **Evening: Rest**
 - You've done 8 hours today. Take the evening off!
@@ -64,36 +64,36 @@
 
 #### Morning Block (9:00 AM - 1:00 PM) - 4 hours
 **9:00 - 10:00 AM: Python Skills Assessment**
-- [ ] Complete Python refresher exercises (if rusty)
-- [ ] Practice pandas DataFrame operations
-- [ ] Review NumPy array manipulation
-- [ ] Test your current skill level
+- [x] Complete Python refresher exercises (if rusty)
+- [x] Practice pandas DataFrame operations
+- [x] Review NumPy array manipulation
+- [x] Test your current skill level
 
 **10:00 - 10:30 AM: BREAK** ☕
 
 **10:30 AM - 1:00 PM: Machine Learning Fundamentals Review**
-- [ ] Watch StatQuest: "Machine Learning Fundamentals" (30 min)
-- [ ] Watch: "Classification vs Regression" (20 min)
-- [ ] Watch: "Logistic Regression" (25 min)
-- [ ] Watch: "Random Forest" (30 min)
-- [ ] Take notes on key concepts (25 min)
+- [x] Watch StatQuest: "Machine Learning Fundamentals" (30 min)
+- [x] Watch: "Classification vs Regression" (20 min)
+- [x] Watch: "Logistic Regression" (25 min)
+- [x] Watch: "Random Forest" (30 min)
+- [x] Take notes on key concepts (25 min)
 
 **1:00 - 2:00 PM: LUNCH BREAK** 🍽️
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00 - 4:00 PM: Model Evaluation Deep Dive**
-- [ ] Study accuracy, precision, recall metrics (30 min)
-- [ ] Learn about log loss and why it matters (30 min)
-- [ ] Understand calibration curves (30 min)
-- [ ] Watch: "Cross-Validation Explained" (30 min)
+- [x] Study accuracy, precision, recall metrics (30 min)
+- [x] Learn about log loss and why it matters (30 min)
+- [x] Understand calibration curves (30 min)
+- [x] Watch: "Cross-Validation Explained" (30 min)
 
 **4:00 - 4:30 PM: BREAK** 🍵
 
 **4:30 - 6:00 PM: Data Sources Exploration**
-- [ ] Sign up for The Odds API (free tier) (15 min)
-- [ ] Browse basketball-reference.com structure (30 min)
-- [ ] Test API access with simple request (20 min)
-- [ ] Document available data fields (25 min)
+- [x] Sign up for The Odds API (free tier) (15 min)
+- [x] Browse basketball-reference.com structure (30 min)
+- [x] Test API access with simple request (20 min)
+- [x] Document available data fields (25 min)
 
 **Evening Block (7:00 PM - 9:00 PM) - 2 hours**
 **7:00 - 9:00 PM: Learning - Sports Analytics Intro**
