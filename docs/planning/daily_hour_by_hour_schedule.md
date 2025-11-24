@@ -28,21 +28,21 @@
 
 #### Morning Block (8:00 AM - 12:00 PM) - 4 hours
 **8:00-9:30 AM: Install & Test nba_api**
-- [ ] Install: `pip install nba_api --break-system-packages`
-- [ ] Test endpoints
-- [ ] Create helper functions
+- [x] Install: `pip install nba_api --break-system-packages`
+- [x] Test endpoints
+- [x] Create helper functions
 
 **10:00 AM-12:00 PM: Collect Unified Dataset**
-- [ ] Collect ALL 4 seasons at once (~4,090 games)
-- [ ] Save as: `nba_games_all_data.csv`
+- [x] Collect ALL 4 seasons at once (~4,000 games)
+- [x] Save as: `nba_games_all_data.csv`
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00-3:30 PM: Advanced Statistics**
-- [ ] Collect team stats (ORtg, DRtg, Four Factors)
+- [x] Collect team stats (ORtg, DRtg, Four Factors)
 
 **4:00-6:00 PM: Data Verification**
-- [ ] Load and verify data
-- [ ] Document structure
+- [x] Load and verify data
+- [x] Document structure
 
 **Total: 8 hours**
 

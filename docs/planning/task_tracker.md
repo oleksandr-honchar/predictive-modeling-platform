@@ -86,22 +86,22 @@ Launch Day: Jan 1         ░░░░░░░░░░  0%
 **Status:** ⏳ Upcoming
 
 **Morning Tasks:**
-- [ ] Install nba_api: `pip install nba_api --break-system-packages`
-- [ ] Test LeagueGameFinder endpoint
-- [ ] Test TeamDashboard endpoint
-- [ ] Create helper functions
+- [x] Install nba_api: `pip install nba_api --break-system-packages`
+- [x] Test LeagueGameFinder endpoint
+- [x] Test TeamDashboard endpoint
+- [x] Create helper functions
 
-- [ ] Collect ALL 4 seasons (~4,090 games)
-- [ ] Save as: `nba_games_all_data.csv`
+- [x] Collect ALL 4 seasons (3,940 games)
+- [x] Save as: `nba_games_all_data.csv`
 
 **Afternoon Tasks:**
-- [ ] Collect advanced statistics (ORtg, DRtg, Four Factors)
-- [ ] Save as: `nba_team_advanced_stats.csv`
+- [x] Collect advanced statistics (ORtg, DRtg, Four Factors)
+- [x] Save as: `nba_stats_all_data.csv`
 
-- [ ] Load data in Jupyter
-- [ ] Verify game count (~4,090)
-- [ ] Check for missing values
-- [ ] Document structure
+- [x] Load data in Jupyter
+- [x] Verify game count (3,940)
+- [x] Check for missing values
+- [x] Document structure
 
 **Key Reminder:** Collect ALL seasons at once (not separately). Split programmatically later.
 
