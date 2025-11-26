@@ -27,7 +27,7 @@ import os
 # CONFIGURATION
 # ============================================================
 
-SEASONS = ['2022-23', '2023-24', '2024-25', '2025-26']
+SEASONS = ['2021-22', '2022-23', '2023-24', '2024-25', '2025-26']
 OUTPUT_DIR = 'data/raw/nba'
 OUTPUT_FILE = 'nba_team_advanced_stats.csv'
 RATE_LIMIT_DELAY = 0.6  # seconds between API calls

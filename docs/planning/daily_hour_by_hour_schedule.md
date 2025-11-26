@@ -52,22 +52,22 @@
 
 #### Morning Block (8:00 AM - 12:00 PM) - 4 hours
 **8:00-10:00 AM: Data Preparation**
-- [ ] Create train/test split function
-- [ ] Document methodology
+- [x] Create train/test split function
+- [x] Document methodology
 
 **10:30 AM-12:00 PM: EDA Start**
-- [ ] Basic statistics
-- [ ] Check distributions
+- [x] Basic statistics
+- [x] Check distributions
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00-4:00 PM: EDA Visualizations**
-- [ ] Points distributions
-- [ ] Home vs away analysis
-- [ ] Correlation heatmap
+- [x] Points distributions
+- [x] Home vs away analysis
+- [x] Correlation heatmap
 
 **4:30-6:00 PM: Pattern Discovery**
-- [ ] Four Factors analysis
-- [ ] Rating relationships
+- [x] Four Factors analysis
+- [x] Rating relationships
 
 **Total: 8 hours**
 
@@ -77,21 +77,21 @@
 
 #### Morning Block (8:00 AM - 12:00 PM) - 4 hours
 **8:00-10:00 AM: Advanced EDA**
-- [ ] Back-to-back impact
-- [ ] Rest days correlation
-- [ ] Season trends
+- [x] Back-to-back impact
+- [x] Rest days correlation
+- [x] Season trends
 
 **10:30 AM-12:00 PM: Document Findings**
-- [ ] Summary report
-- [ ] Save visualizations
+- [x] Summary report
+- [x] Save visualizations
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00-4:00 PM: ML Course Start**
-- [ ] Kaggle: Intro to Machine Learning
-- [ ] Lessons 1-3
+- [x] Kaggle: Intro to Machine Learning
+- [x] Lessons 1-3
 
 **4:30-6:00 PM: Continue ML**
-- [ ] Lesson 4: Model Validation
+- [x] Lesson 4: Model Validation
 
 **Total: 8 hours**
 

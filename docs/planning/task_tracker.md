@@ -72,7 +72,7 @@ Launch Day: Jan 1         ░░░░░░░░░░  0%
 ### Theme: Data Collection & ML Fundamentals
 
 ### Week 2 Goals:
-- [ ] Collect unified NBA dataset (~4,090 games)
+- [x] Collect unified NBA dataset (5,085 games)
 - [ ] Complete EDA with visualizations
 - [ ] Finish Kaggle ML courses
 - [ ] Design feature engineering approach
@@ -113,14 +113,14 @@ Launch Day: Jan 1         ░░░░░░░░░░  0%
 **Status:** ⏳ Upcoming
 
 **Tasks:**
-- [ ] Create train/test split function
-- [ ] Verify split: Training (~3,690), Test (~400)
-- [ ] Document splitting methodology
-- [ ] Load training data
-- [ ] Calculate basic statistics
-- [ ] Check distributions
-- [ ] Create initial visualizations
-- [ ] Analyze Four Factors correlations
+- [x] Create train/validation/test split function
+- [x] Verify split: Training (70%), Validation (15%), Test (15%)
+- [x] Document splitting methodology
+- [x] Load training data
+- [x] Calculate basic statistics
+- [x] Check distributions
+- [x] Create initial visualizations
+- [x] Analyze Four Factors correlations
 
 ---
 
@@ -130,12 +130,12 @@ Launch Day: Jan 1         ░░░░░░░░░░  0%
 **Status:** ⏳ Upcoming
 
 **Tasks:**
-- [ ] Analyze back-to-back game impact
-- [ ] Study rest days correlation
-- [ ] Examine team trends over season
-- [ ] Document all insights
-- [ ] Start Kaggle: Intro to Machine Learning
-- [ ] Complete Lessons 1-4
+- [x] Analyze back-to-back game impact
+- [x] Study rest days correlation
+- [x] Examine team trends over season
+- [x] Document all insights
+- [x] Start Kaggle: Intro to Machine Learning
+- [x] Complete Lessons 1-4
 
 ---
 

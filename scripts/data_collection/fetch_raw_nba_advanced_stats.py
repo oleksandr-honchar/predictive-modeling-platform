@@ -21,13 +21,13 @@ import os
 # CONFIGURATION
 # ============================================================
 
-INPUT_FILE = 'data/raw/nba/nba_games_all_data.csv'
+INPUT_FILE = 'data/raw/nba/nba_games_data.csv'
 OUTPUT_DIR = 'data/raw/nba'
-OUTPUT_FILE = 'nba_stats_2022-23.csv'
+OUTPUT_FILE = 'nba_stats_2021-22.csv'
 RATE_LIMIT_DELAY = 1.0  # Increased from 0.6 to prevent rate limiting
 
 # SEASONS TO COLLECT (None = all seasons in game data)
-SEASONS = ['2022-23']  # Edit this list
+SEASONS = ['2021-22']  # Edit this list
 # SEASONS = None  # Uncomment to collect all seasons
 
 # COLLECT ONLY TEAMS THAT PLAYED ON EACH DATE

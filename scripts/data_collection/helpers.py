@@ -269,3 +269,39 @@ if __name__ == "__main__":
     
     print("\n" + "="*60)
     print("✅ All examples complete")
+    
+    
+# ============================================================
+# DATASET SPLITTING
+# ============================================================
+    
+    
+import pandas as pd
+
+class TemporalSplitter:
+    def __init__(self, date_col="GAME_DATE"):
+        self.date_col = date_col
+
+    def split(self, df, train=0.70, val=0.15, test=0.15):
+        df = df.sort_values(self.date_col).reset_index(drop=True)
+        n = len(df)
+
+        train_end = int(n * train)
+        val_end = int(n * (train + val))
+
+        train_df = df.iloc[:train_end]
+        val_df = df.iloc[train_end:val_end]
+        test_df = df.iloc[val_end:]
+
+        return train_df, val_df, test_df
+
+    def summary(self, df, train_df, val_df, test_df):
+        n = len(df)
+        return {
+            "train_rows": len(train_df),
+            "val_rows": len(val_df),
+            "test_rows": len(test_df),
+            "train_pct": len(train_df)/n,
+            "val_pct": len(val_df)/n,
+            "test_pct": len(test_df)/n
+        }

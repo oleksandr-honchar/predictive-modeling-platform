@@ -16,47 +16,42 @@
 ### Theme: Foundation & Strategy
 
 #### Monday-Tuesday (Nov 20-21): Market Research & Decision Making
-- [ ] **Research sports betting markets** (3 hours)
+- [x] **Research sports betting markets** (3 hours)
   - Study current analytics platforms (FiveThirtyEight, The Athletic, Action Network)
   - Identify gaps in market coverage
   - Analyze what content performs well
   
-- [ ] **Research financial forecasting landscape** (2 hours)
-  - Survey existing stock prediction platforms
-  - Understand regulatory considerations
-  - Note what differentiates successful platforms
-
-- [ ] **Make first market decision** (1 hour)
+- [x] **Make first market decision** (1 hour)
   - Choose: NBA or NFL for sports (see recommendations below)
   - Document reasoning
 
 #### Wednesday-Thursday (Nov 22-23): Technical Skills Assessment
-- [ ] **Python skill check** (4 hours)
+- [x] **Python skill check** (4 hours)
   - If rusty: Complete Python refresher (DataCamp, Coursera)
   - Practice pandas for data manipulation
   - Review NumPy basics
   - Test environment setup (Jupyter, VS Code)
 
-- [ ] **Machine learning fundamentals review** (4 hours)
+- [x] **Machine learning fundamentals review** (4 hours)
   - Refresh: supervised learning concepts
   - Review: classification vs regression
   - Study: model evaluation metrics (accuracy, precision, recall, log loss)
   - Watch: StatQuest ML playlist on YouTube
 
 #### Friday-Sunday (Nov 24-26): Data & Tools Exploration
-- [ ] **Identify data sources** (3 hours)
+- [x] **Identify data sources** (3 hours)
   - Sports: Explore free APIs (The Odds API has free tier, sports-reference.com)
   - Test API access and data quality
   - Document available features
 
-- [ ] **Set up development environment** (3 hours)
+- [x] **Set up development environment** (3 hours)
   - Install Python 3.11+
   - Set up virtual environment
   - Install key libraries: pandas, scikit-learn, matplotlib, seaborn
   - Create project folder structure
   - Initialize Git repository
 
-- [ ] **Weekend learning** (4-6 hours)
+- [x] **Weekend learning** (4-6 hours)
   - Start reading: "Forecasting: Principles and Practice" (free online)
   - Watch: Introduction to sports analytics videos
   - Study: How betting odds work (implied probability)
@@ -69,20 +64,20 @@
 ### Theme: Learning & Data Acquisition
 
 #### Monday-Tuesday (Nov 27-28): Deep Learning - Sports Analytics
-- [ ] **NBA/NFL Analytics Deep Dive** (6 hours)
+- [x] **NBA/NFL Analytics Deep Dive** (6 hours)
   - Read: Basketball-reference.com or Pro-Football-Reference.com statistical guides
   - Study: Key predictive features (team stats, player metrics, situational factors)
   - Learn: How to read betting lines and calculate implied probabilities
   - Watch: Sports analytics YouTube channels (Thinking Basketball for NBA)
 
 #### Wednesday-Thursday (Nov 29-30): Data Collection & Exploration
-- [ ] **Collect historical data** (6 hours)
+- [x] **Collect historical data** (6 hours)
   - Write Python scripts to fetch historical game data
   - Collect 3+ seasons of data minimum
   - Include: scores, team stats, betting lines (if available)
   - Save to CSV and/or SQLite database
 
-- [ ] **Exploratory Data Analysis (EDA)** (4 hours)
+- [x] **Exploratory Data Analysis (EDA)** (4 hours)
   - Jupyter notebook with data exploration
   - Identify patterns (home court advantage, back-to-back games, etc.)
   - Visualize distributions
