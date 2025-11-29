@@ -46,8 +46,7 @@ wheels/
 Thumbs.db
 
 # Project specific
-data/raw/
-data/processed/
+data/
 models/*.pkl
 models/*.joblib
 htmlcov/

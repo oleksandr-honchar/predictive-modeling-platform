@@ -101,21 +101,21 @@
 
 #### Morning Block (8:00 AM - 12:00 PM) - 4 hours
 **8:00-10:00 AM: ML Course**
-- [ ] Lessons 5-6 (Overfitting, Random Forests)
+- [x] Lessons 5-6 (Overfitting, Random Forests)
 
 **10:30 AM-12:00 PM: Intermediate ML**
-- [ ] Lessons 1-3
+- [x] Lessons 1-3
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00-4:00 PM: Model Evaluation Study**
-- [ ] Train/test splits
-- [ ] Cross-validation
-- [ ] Calibration
-- [ ] Brier score
+- [x] Train/test splits
+- [x] Cross-validation
+- [x] Calibration
+- [x] Brier score
 
 **4:30-6:00 PM: Betting Model Evaluation**
-- [ ] Kelly Criterion
-- [ ] ROI calculation
+- [x] Kelly Criterion
+- [x] ROI calculation
 
 **Total: 8 hours**
 
@@ -125,22 +125,22 @@
 
 #### Morning Block (8:00 AM - 12:00 PM) - 4 hours
 **8:00-10:00 AM: Intermediate ML Continue**
-- [ ] Pipelines
-- [ ] Cross-Validation
+- [x] Pipelines
+- [x] Cross-Validation
 
 **10:30 AM-12:00 PM: Feature Planning**
-- [ ] List all NBA features
-- [ ] Prioritize by importance
+- [x] List all NBA features
+- [x] Prioritize by importance
 
 #### Afternoon Block (2:00 PM - 6:00 PM) - 4 hours
 **2:00-4:00 PM: Feature Engineering Design**
-- [ ] Rolling averages (L5, L10)
-- [ ] Rest days & back-to-backs
-- [ ] Head-to-head records
+- [x] Rolling averages (L5, L10)
+- [x] Rest days & back-to-backs
+- [x] Head-to-head records
 
 **4:30-6:00 PM: Week 2 Documentation**
-- [ ] Document data collected
-- [ ] Summarize EDA findings
+- [x] Document data collected
+- [x] Summarize EDA findings
 
 **Total: 8 hours**
 

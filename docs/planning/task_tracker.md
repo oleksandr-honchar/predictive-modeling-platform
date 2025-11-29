@@ -145,12 +145,12 @@ Launch Day: Jan 1         ░░░░░░░░░░  0%
 **Status:** ⏳ Upcoming
 
 **Tasks:**
-- [ ] Complete Kaggle Intro to ML (Lessons 5-6)
-- [ ] Start Intermediate Machine Learning
-- [ ] Complete Lessons 1-3
-- [ ] Study train/test splits, cross-validation
-- [ ] Learn about calibration and Brier score
-- [ ] Understand Kelly Criterion and ROI
+- [x] Complete Kaggle Intro to ML (Lessons 5-6)
+- [x] Start Intermediate Machine Learning
+- [x] Complete Lessons 1-3
+- [x] Study train/test splits, cross-validation
+- [x] Learn about calibration and Brier score
+- [x] Understand Kelly Criterion and ROI
 
 ---
 
@@ -160,12 +160,12 @@ Launch Day: Jan 1         ░░░░░░░░░░  0%
 **Status:** ⏳ Upcoming
 
 **Tasks:**
-- [ ] Continue Intermediate ML (Lessons 4-5)
-- [ ] List all possible NBA features
-- [ ] Prioritize features by importance
-- [ ] Design rolling average calculations
-- [ ] Plan rest days & back-to-back indicators
-- [ ] Sketch head-to-head approach
+- [x] Continue Intermediate ML (Lessons 4-5)
+- [x] List all possible NBA features
+- [x] Prioritize features by importance
+- [x] Design rolling average calculations
+- [x] Plan rest days & back-to-back indicators
+- [x] Sketch head-to-head approach
 - [ ] Document Week 2 findings
 
 ---
